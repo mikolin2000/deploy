@@ -1,0 +1,7 @@
+name 'haproxy'
+maintainer 'Miguel Leal'
+maintainer_email 'miguel.leal@softtek.com'
+license 'all_rights'
+description 'Installs/Configures haproxy'
+long_description 'Installs/Configures haproxy'
+version '0.1.0'
